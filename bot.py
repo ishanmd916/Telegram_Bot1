@@ -2,7 +2,7 @@ import telebot
 import json
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7899515236:AAH5rEsD3PVXR5sWclggvUhnvinOh0-Z69g"
 bot = telebot.TeleBot(TOKEN)
 
 def load_movies():
